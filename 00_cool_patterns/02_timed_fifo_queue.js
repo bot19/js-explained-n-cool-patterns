@@ -11,8 +11,9 @@
  */
 
 class ToastManager {
-  private duration: number;
-  private toasts: { id: number; message: string }[] = [];
+  // if TypeScript
+  // private duration: number;
+  // private toasts: { id: number; message: string }[] = [];
 
   constructor(duration = 3000) {
     this.duration = duration; // how long each toast lives
