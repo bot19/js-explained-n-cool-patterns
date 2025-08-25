@@ -6,8 +6,8 @@ I'll also add to the topics as I learn & grow in them.
 
 ## My cool JS patterns
 
-1. [concurrency limited task queue](./00_cool_patterns/01_concurrency_limited_task_queue) 8/2025
-2. [timed FIFO queue](./00_cool_patterns/02_timed_fifo_queue) 8/2025
+1. [concurrency limited task queue](./00_cool_patterns/01_concurrency_limited_task_queue.js) 8/2025
+2. [timed FIFO queue](./00_cool_patterns/02_timed_fifo_queue.js) 8/2025
 
 ## JS Deep Dive (The Senior Dev 🔬)
 
